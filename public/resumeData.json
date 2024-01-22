@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Felix Jr Lazarte",
+    "description":"“What separates design from art is that design is meant to be… functional.” – Cameron Moll",
+    "image":"profile.jpg",
+    "bio":"An engineer with specialisation in web development, knowledge of ReactJs, NextJs, Javascript, HTML, CSS. I am looking forward to leadership opportunities as well as managing the different technologies for your reputed organization.",
+    "contactmessage":"Get In Touch.",
+    "email": "felixjr.lazarte@gmail.com",
+    "phone": "+63 960 335 4735 | +63 935 398 4072",
+    "github":"https://github.com/felixjrlazarte",
+    "project":"https://github.com/felixjrlazarte",
+    "address":{
+      "street":"SMDC Trees Residences, Quirino Hwy ",
+      "city":"Novaliches, Quezon City",
+      "state":"Metro Manila",
+      "zip": "1118"
+    },
+    "website": "/",
+    "resumedownload":"resume/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/felix-jr-lazarte-90b417124/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/felixjrlazarte",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Camarines Sur Polytechnic Colleges",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"March 2017",
+        "description":"Member, College Programming team",
+        "achievements": [
+          {
+            "title": "6th placer - Ateneo Programming Challenge (APC)",
+            "dateIssued": "Jan 2017"
+          },
+          {
+            "title": "4th placer - Ateneo Programming Challenge (APC)",
+            "dateIssued": "Jan 2016"
+          },
+          {
+            "title": "9th placer - Philippine Southern Luzon Programming Challenge (ACM-ICPC)",
+            "dateIssued": "Jan 2016"
+          },
+          {
+            "title": "7th placer - Philippine Southern Luzon Programming Challenge (ACM-ICPC)",
+            "dateIssued": "Jan 2016"
+          }
+        ]
+      }
+    ],
+    "work":[
+      {
+        "company":"Maya Philippines",
+        "title":"Senior Front-End Engineer",
+        "years":"November 2022 - Present",
+        "description": [
+          "- Worked with advance web development technologies like React, NextJs, React Hooks, Redux-Toolkit, Sass etc.",
+          "- Develop responsive web UI using chakra-ui",
+          "- Implemented unit testing using React Testing Library to ensure code quality and prevent regression bugs from entering production environments.",
+          "- Used Github as CI/CD Tools.",
+          "- Used Jira tool for requirement gathering, GitHub as version control systems.",
+          "- Followed Agile methodology throughout development work through requirement gathering, design, Development, Testing, Deployment, Review."
+        ]
+      },
+      {
+        "company":"Asurion Hong Kong Limited - ROHQ",
+        "title":"Software Engineer 2",
+        "years":"April 2022 - September 2022",
+        "description": [
+          "- Building new features using advance web development technologies like React, React-Hooks, Redux-Toolkit, React-Router. ES6, CSS3 Etc.",
+          "- Develop responsive web UI design using material-UI, Bootstrap and Tailwind.",
+          "- Maintained internal applications including bug fixes and enhancements.",
+          "- Used Jenkins as CI/CD Tools and GitHub as version control systems.",
+          "- Provided technical support to agents via email or ticketing system regarding issues related to application functionality or performance."
+        ]
+      },
+      {
+        "company":"Maya Philippines",
+        "title":"Senior Software Engineer",
+        "years":"April 2020 - March 2022",
+        "description": [
+          "- Worked with advance web development technologies like React, Redux, React Hooks, React-Router, Axios, ES6, Sass etc.",
+          "- Develop responsive web UI using material-UI, Bootstrap",
+          "- Implemented unit testing using Enzyme and React Testing Library to ensure code quality and prevent regression bugs from entering production environments.",
+          "- Used Jenkins and Github as CI/CD Tools.",
+          "- Used Jira tool for requirement gathering, GitHub as version control systems.",
+          "- Added hooks in the project and move some class-based components to functional components",
+          "- Followed Agile methodology throughout development work through requirement gathering, design, Development, Testing, Deployment, Review."
+        ]
+      },
+      {
+        "company":"Samsung R&D Institute Philippines",
+        "title":"Software Engineer",
+        "years":"May 2018 - April 2020",
+        "description": [
+          "- Building internal applications using advance web development technologies like React, Redux, React Hooks, React-Router, Axios, ES6, Prop-types, Typescript etc.",
+          "- Created Reusable react components using react storybook.",
+          "- Worked with data visualization packages like high charts.",
+          "- Implemented unit testing using Enzyme and React Testing Library to ensure code quality.",
+          "- Advance passer of SWC Examination/ Algorithmic Problems using Java"
+        ]
+      },
+      {
+        "company":"Valueline Systems & Solutions Corporation",
+        "title":"Associate Software Engineer",
+        "years":"April 2017 - May 2018",
+        "description": [
+          "- Building and Maintaining applications using AngularJS, Go, PHP, Phalcon and MySQL",
+          "- Used Github and Gitlab as version control system"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"Javascript",
+        "level":"100%"
+      },
+      {
+        "name":"Css in JS",
+        "level":"100%"
+      },
+      {
+        "name":"Unit Testing (Jest, Enzyme, React Testing Library)",
+        "level":"100%"
+      },
+      {
+        "name":"Micro Frontends (Single SPA)",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PayMaya Business Manager",
+        "category":"websites",
+        "image":"pbm.png",
+        "url":"https://pbm.paymaya.com/"
+      },
+      {
+        "title":"Samsung Cloud",
+        "category":"websites",
+        "image":"samsung-cloud.png",
+        "url":"https://support.samsungcloud.com/#/login"
+      },
+      {
+        "title":"Macondray Lending and Loan System",
+        "category":"websites",
+        "image":"macondray.png",
+        "url":"https://www.macondrayfinance.ph/login/headoffice/1/85faa661fe48fe9ed19b4e41b6b6f40916dff726"
+      }
+    ]
+  }
+}
